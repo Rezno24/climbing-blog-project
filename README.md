@@ -5,24 +5,24 @@ This project explores climber preferences and trends in bouldering grades and ro
 To Replicate:
 
 Requirements
-Make sure you have Python 3.7+ and the following packages installed:
+Make sure you have Python 3.7+ and the following packages installed (which can also be achieved by running the command):
 
 pip install pandas matplotlib seaborn numpy statsmodels scikit-learn
 
 Here’s a full list of libraries used in the notebook (written as python installation code):
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import statsmodels.formula.api as smf
-import re
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import mean_squared_error, r2_score
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import statsmodels.formula.api as smf
+- import re
+- import numpy as np
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LinearRegression
+- from sklearn.preprocessing import OneHotEncoder
+- from sklearn.compose import ColumnTransformer
+- from sklearn.pipeline import Pipeline
+- from sklearn.metrics import mean_squared_error, r2_score
 
 Obtaining and Replicating the Data:
 
