@@ -48,7 +48,7 @@ Import and clean the datasets
 Generate the visualisations
 Fit and evaluate the regression model
 
-All cleaning and preprocessing steps are fully documented within the notebook.
+All cleaning and preprocessing steps are fully documented within the notebooks.
 
 
 # File Structure
