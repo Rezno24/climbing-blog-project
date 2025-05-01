@@ -48,7 +48,7 @@ Open the Jupyter Notebook file included in this folder and run all cells. This w
 - Generate the visualisations
 - Fit and evaluate the regression model
 
-All cleaning and preprocessing steps are fully documented within the included notebooks.
+All cleaning and preprocessing steps are fully documented within all the included notebooks. 
 
 
 # File Structure
