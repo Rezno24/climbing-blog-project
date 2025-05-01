@@ -41,14 +41,14 @@ https://www.mountainproject.com/route-finder?diffMaxaid=75260&diffMaxboulder=212
 Use the filters at the bottom of each page to show only bouldering routes between V-Easy and V12–13, with at least 0 stars. Then export the data by clicking Export CSV.
 Once downloaded, rename the files appropriately (joes_valley.csv, joshua_tree.csv, hueco_tanks.csv) and place them in the working directory.
 
-2. Run the Analysis
+2. Run the Analysis:
 Open the Jupyter Notebook file included in this folder and run all cells. This will:
 
-Import and clean the datasets
-Generate the visualisations
-Fit and evaluate the regression model
+- Import and clean the datasets
+- Generate the visualisations
+- Fit and evaluate the regression model
 
-All cleaning and preprocessing steps are fully documented within the notebooks.
+All cleaning and preprocessing steps are fully documented within the included notebooks.
 
 
 # File Structure
