@@ -52,23 +52,24 @@ All cleaning and preprocessing steps are fully documented within the notebook.
 
 
 File Structure
-/project-files
-    /data
-        - joes_valley.csv
-        - joshua_tree.csv
-        - hueco_tanks.csv
-    /jupyter_notebooks
-        - climbing_blog.html
-        - climbing_blog.ipynb
-        - climbing_code_only.html
-        - climbing_code_only.ipynb
-    /graph_output_images
-        - boxplot_of_ratings.png
-        - distrubution_of_grades.png
-        - predictive_model.png
-        - scatter_of_ratings.png
-        - total_climbs.png
-README.md
-blog.txt
+/climbing-project
+    README.md
+    blog.txt
+    /project-files
+        /data
+            - joes_valley.csv
+            - joshua_tree.csv
+            - hueco_tanks.csv
+        /jupyter_notebooks
+            - climbing_blog.html
+            - climbing_blog.ipynb
+            - climbing_code_only.html
+            - climbing_code_only.ipynb
+        /graph_output_images
+            - boxplot_of_ratings.png
+            - distrubution_of_grades.png
+            - predictive_model.png
+            - scatter_of_ratings.png
+            - total_climbs.png
 
 
