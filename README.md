@@ -51,7 +51,7 @@ Fit and evaluate the regression model
 All cleaning and preprocessing steps are fully documented within the notebook.
 
 
-File Structure
+# File Structure
 /climbing-project
     README.md
     blog.txt
